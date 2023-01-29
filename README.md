@@ -11,7 +11,7 @@ Android/ios Demo.
 ## 📌 In the source code
 - modular code with clean separation of business and data layer
 - UI Built with detailed separation of concern,every component stands in it's own(widget),there fore easy to read and reusable 
-- All static text strings are added to the localisation JSON files so as to enable internationalisation (currently only have en.json file for english)
+- All static text strings are added to the localisation JSON files so as to enable internationalisation (currently only have en.json and fr.json but all words in english with out translation)
 - All Color values created in a separate class,therefore make's it easy to adapt the ui for diffrent modes(theme)
 - Hive db used for data caching(as local data strage)
 - Bloc used for state Management
