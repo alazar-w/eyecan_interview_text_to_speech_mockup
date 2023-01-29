@@ -1,6 +1,6 @@
 # interview_mockup
 
-Flutter Web Demo.
+Android/ios Demo.
 
 ## 📌 Getting Started
 
