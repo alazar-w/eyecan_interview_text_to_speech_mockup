@@ -1,0 +1,12 @@
+{
+    "appTitle": "TexttRead",
+    "welcome":"Welcome Steve!",
+    "language":"language",
+    "volume":"Volume",
+    "rate":"Rate",
+    "pitch":"Pitch",
+    "openPdf":"OPEN PDF",
+    "readSample":"READ SAMPLE",
+    "readAllPage":"READ ALL PAGE"
+    
+  }
