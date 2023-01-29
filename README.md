@@ -17,7 +17,12 @@ Android/ios Demo.
 - Bloc used for state Management
 _ bloc_test together with mocktail for bloc testing
 
+#Fetures #In Android 
+speak,stope speking,set volume,set rate,set pitch,set language,get language,get voice(with prefferd language)
 
+
+#Fetures #In IOS 
+speak,stope speking,pause speking,resume speking,set volume,set rate,set pitch,set language(only-english),get language(only english),get voice(only english)
 
 
 
